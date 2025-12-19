@@ -1,0 +1,6 @@
+streamlit
+langchain
+mistralai
+faiss-cpu
+pandas
+python-dotenv
