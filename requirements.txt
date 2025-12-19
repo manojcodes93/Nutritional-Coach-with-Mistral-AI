@@ -1,6 +1,7 @@
 streamlit
 langchain
 mistralai
+langchain-community
 faiss-cpu
 pandas
 python-dotenv
