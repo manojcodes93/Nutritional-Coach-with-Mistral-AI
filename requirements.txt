@@ -5,3 +5,5 @@ langchain-community
 faiss-cpu
 pandas
 python-dotenv
+transformers
+sentence-transformers
