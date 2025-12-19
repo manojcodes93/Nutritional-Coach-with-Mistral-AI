@@ -1,5 +1,5 @@
 import streamlit as st
-from agent import nutritional_agent
+from agent import ask_nutrition_coach as nutritional_agent
 
 st.set_page_config(
     page_title="🍏 Nutritional Coach with Mistral AI",
