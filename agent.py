@@ -59,4 +59,4 @@ def ask_nutrition_coach(question: str):
         messages=messages
     )
 
-    return response.output_text
+    return response.choices[0].message.content
